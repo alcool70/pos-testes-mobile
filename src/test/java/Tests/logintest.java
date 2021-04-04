@@ -6,7 +6,7 @@ import org.springframework.core.annotation.Order;
 
 import java.util.concurrent.TimeUnit;
 
-public class logintests extends BaseTest {
+public class logintest extends BaseTest {
     @Order(1)
     @Test
     public void LoginVazio() {
