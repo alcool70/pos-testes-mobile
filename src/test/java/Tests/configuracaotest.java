@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class configuracaotests extends BaseTest {
+public class configuracaotest extends BaseTest {
 
     @Test
     public void AlterarTema(){
