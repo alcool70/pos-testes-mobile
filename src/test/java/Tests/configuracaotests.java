@@ -1,12 +1,12 @@
 package Tests;
 
-import Drive.SampleTest;
+import Drive.BaseTest;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class configuracaotests extends SampleTest {
+public class configuracaotests extends BaseTest {
 
     @Test
     public void AlterarTema(){

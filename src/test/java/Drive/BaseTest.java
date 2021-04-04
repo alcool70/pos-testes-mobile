@@ -12,7 +12,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import static org.junit.Assert.assertEquals;
 
-public class SampleTest {
+public class BaseTest {
 
     public AndroidDriver driver;
 

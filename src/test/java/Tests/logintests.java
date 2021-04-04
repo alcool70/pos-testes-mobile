@@ -1,12 +1,12 @@
 package Tests;
-import Drive.SampleTest;
+import Drive.BaseTest;
 import org.junit.Assert;
 import org.junit.Test;
 import org.springframework.core.annotation.Order;
 
 import java.util.concurrent.TimeUnit;
 
-public class logintests extends SampleTest {
+public class logintests extends BaseTest {
     @Order(1)
     @Test
     public void LoginVazio() {
